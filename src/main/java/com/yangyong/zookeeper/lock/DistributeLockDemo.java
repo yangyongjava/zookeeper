@@ -10,8 +10,7 @@ import java.util.concurrent.*;
 
 /**
  * 实现分布式环境下同步锁的实现
- * @author parker
- * @date 2016/12/15
+ * 
  */
 public class DistributeLockDemo implements Watcher{
 
